@@ -1,0 +1,9 @@
+English
+To install pyautogui, search for terminal, it is at the bottom left corner of the pycharm screen, or if you're lazy just use a shortcut
+,which is Alt + F12. Here we will be installing pyautogui. So first write down (pip install pyautogui),exclude the parenthesis or brackets, then the computer will activate
+pyautogui. Afterwards the program is set to run.
+
+Indonesia
+Untuk install pyautogui, cari terminal, di pojok kiri bawah layar pycharm, atau jika Anda malas gunakan saja pintasan
+, yaitu Alt + F12. Di sini kita akan menginstal pyautogui. Jadi tulis dulu (pip install pyautogui), hilangkan brackets, lalu komputer akan aktifkan
+pyautogui. Setelah itu program diatur untuk dijalankan.
